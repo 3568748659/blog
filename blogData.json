@@ -21,26 +21,6 @@
             "title": "vue文档",
             "src": "https://cn.vuejs.org/",
             "time": "2020-12-12"
-        },
-        {
-            "title": "js文档",
-            "src": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
-            "time": "2020-12-12"
-        },
-        {
-            "title": "js文档",
-            "src": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
-            "time": "2020-12-12"
-        },
-        {
-            "title": "js文档",
-            "src": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
-            "time": "2020-12-12"
-        },
-        {
-            "title": "js文档",
-            "src": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
-            "time": "2020-12-12"
         }
     ],
     "p23": [
@@ -60,7 +40,7 @@
         },
         {
             "title": "更新日志",
-            "value": "2024/6/17-添加日志功能2024/6/27-修复部分bug,2024/7/6-开源了在线五子棋,2024/8/1-关闭了个人博客添加易切,2024/9/4-修改了部分文本animation,2024/10/8重新重构上线"
+            "value": "2015/1/21迁移到github取消易切桌面版,2024/10/8重新重构上线,2024/9/4-修改了部分文本animation,2024/8/1-关闭了个人博客添加易切,2024/7/6-开源了在线五子棋,2024/6/17-添加日志功能2024/6/27-修复部分bug"
         },
         {
             "title": "重构内容",
@@ -78,68 +58,68 @@
     "p25": {
         "B": [
             {
-                "src": "http://localhost/blogImg/B_桥.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/B_桥.jpg"
             },
             {
-                "src": "http://localhost/blogImg/B_电线.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/B_电线.jpg"
             },
             {
-                "src": "http://localhost/blogImg/B_港.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/B_港.jpg"
             },
             {
-                "src": "http://localhost/blogImg/B_君越.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/B_君越.jpg"
             },
             {
-                "src": "http://localhost/blogImg/B_老家.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/B_老家.jpg"
             },
             {
-                "src": "http://localhost/blogImg/B_烟花.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/B_烟花.jpg"
             }
         ],
         "L": [
             {
-                "src": "http://localhost/blogImg/L_沙河口.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/L_沙河口.jpg"
             },
             {
-                "src": "http://localhost/blogImg/L_风筝.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/L_风筝.jpg"
             },
             {
-                "src": "http://localhost/blogImg/L_花.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/L_花.jpg"
             },
             {
-                "src": "http://localhost/blogImg/L_教员.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/L_教员.jpg"
             },
             {
-                "src": "http://localhost/blogImg/L_桥.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/L_桥.jpg"
             },
             {
-                "src": "http://localhost/blogImg/L_山.jpg"
+                "src": "https://3568748659.github.io/blog/blogImg/L_山.jpg"
             }
         ]
     },
     "p3": [
-        {
-            "img": "https://www.liyinghao.cc/nginxPublic/static-files-of-nginx-proxy/p3/nav.png",
-            "text": "我的网址导航",
-            "src": "https://www.liyinghao.cc/nav/"
-        },
         {
             "img": "https://www.liyinghao.cc/nginxPublic/static-files-of-nginx-proxy/p3/of.png",
             "text": "node.js在线五子棋",
             "src": "https://gitee.com/hyl19/online-five-character-chess"
         },
         {
-            "img": "http://localhost/p3/python.jpg",
+            "img": "https://3568748659.github.io/blog/p3/python.jpg",
             "text": "python脚本复制工具",
             "src": "https://gitee.com/hyl19/copying-scripts-in-python"
         },
         {
-            "img": "http://localhost/p3/yq.png",
+            "img": "https://3568748659.github.io/blog/p3/yq.png",
             "text": "易切-轻量级图片切割App",
-            "src": "https://www.liyinghao.cc/yqdownload/"
+            "src": "https://3568748659.github.io/blog/yq/"
         },
         {
-            "img": "http://localhost/p3/gitee.png",
+            "img": "https://3568748659.github.io/blog/p3/swkz.png",
+            "text": "思维快照-手写板",
+            "src": "https://3568748659.github.io/blog/sw/"
+        },
+        {
+            "img": "https://3568748659.github.io/blog/p3/gitee.png",
             "text": "我的gitee主页",
             "src": "https://gitee.com/hyl19"
         }
